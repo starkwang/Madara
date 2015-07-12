@@ -1,6 +1,6 @@
 {
   "name": "madara",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "dependencies": {
     "bluebird": "2.9.32",
     "jade": "1.11.0",
